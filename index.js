@@ -12,6 +12,7 @@
 // console.log(pathName)
 // console.log(pathObj)
   
+
   //OS
 //   const os = require('os') 
 //   const osMem =os.freemem()   // bosh joyni aniqlaydi
