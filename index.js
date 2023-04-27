@@ -5,7 +5,7 @@
 // log('xayr')
 
 
-  // PATH
+  // PATH 
 // const path = require('path');
 // const pathObj =path.parse(__filename)
 // const pathName =path.join('/foo', 'bar', 'baz/asdf', 'quux', '..')
