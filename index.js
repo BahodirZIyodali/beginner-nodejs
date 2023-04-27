@@ -10,7 +10,7 @@
 // const pathObj =path.parse(__filename)
 // const pathName =path.join('/foo', 'bar', 'baz/asdf', 'quux', '..')
 // console.log(pathName)
-// console.log(pathObj)
+// console.log(pathObj) 
   
 
   //OS
